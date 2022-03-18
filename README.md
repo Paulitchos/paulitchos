@@ -1,7 +1,7 @@
 -Computer Engineering Student
 ##
 <div>
-  <a href="https://github.com/Nun0Santos">
+  <a href="https://github.com/Paulitchos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Paulitchos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulitchos&layout=compact&langs_count=7&theme=radical"/>
 </div>
