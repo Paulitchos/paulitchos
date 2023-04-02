@@ -17,7 +17,7 @@ Computer Engineering Student
  
    ##
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Paulitchos&theme=darkhub)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Paulitchos&theme=darkhub)
   
 <h3>🔧Languages: </h3>
 <p>
