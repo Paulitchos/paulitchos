@@ -45,7 +45,7 @@ Computer Engineering Student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width=4% height=4%>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbean/netbean-original.svg" width=4% height=4%>
 </p>
 
  
