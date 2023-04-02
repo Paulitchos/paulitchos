@@ -1,4 +1,4 @@
--Computer Engineering Student
+Computer Engineering Student
 ##
 <div>
   <a href="https://github.com/Paulitchos">
