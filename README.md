@@ -18,7 +18,8 @@ Computer Engineering Student
    ##
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=Paulitchos&theme=darkhub)
-  
+
+<hr width="45%">
 <h3>🔧Languages: </h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width=4% height=4%>
