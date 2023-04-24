@@ -1,4 +1,6 @@
 Computer Engineering Student
+
+Visit my website: <a href="https://paulogouveia.pages.dev/">https://paulogouveia.pages.dev/</a>
 ##
 <div>
   <a href="https://github.com/Paulitchos">
@@ -7,15 +9,6 @@ Computer Engineering Student
 </div>
  
   ##
- 
- <div> 
-   <a href="https://www.youtube.com/channel/UC5ufJLtff1YPVmt5y-2Sskw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/paulohenriquegouveia99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/Paulitchos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-           
- </div>
- 
-   ##
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=Paulitchos&theme=darkhub)
 
